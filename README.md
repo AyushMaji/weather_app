@@ -2,7 +2,7 @@
 
 # weather_app
 
-Use the Weather app to check the weather for your current location or in other places. You can view the upcoming hourly and current forecast, see severe weather information, view weather maps, receive precipitation notifications, and more.
+Use the Weather app to check the weather for your current location or in other places. You can view the hourly and current forecast, see severe weather information, view weather maps, receive and more.
 
 
 ## Some ScreenShort
